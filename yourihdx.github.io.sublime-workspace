@@ -303,7 +303,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 200,
+				"buffer_size": 457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 113,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -538,7 +547,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -547,22 +556,51 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								173,
-								173
+								430,
+								358
 							]
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1515150364.29,
+							"markdonw_live_preview_last_run": 1515212857.3,
 							"open_with_edit": true,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1515212857.3,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -572,7 +610,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
@@ -590,14 +628,14 @@
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1515151287.62,
+							"markdonw_live_preview_last_run": 1515212857.3,
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
