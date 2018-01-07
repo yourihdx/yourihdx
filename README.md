@@ -1,4 +1,4 @@
 # yourihdx
-The Website Describing My Projects Placed on Github
+For now, just a page for my contacts.
 
 [yourihdx.github.io](https://yourihdx.github.io)
